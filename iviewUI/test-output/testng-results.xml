@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-15T02:55:54 WIB" name="Zalora" finished-at="2022-08-15T02:57:12 WIB" duration-ms="77232">
+    <groups>
+      <group name="UI">
+        <method signature="UIcase.TC01()[pri:0, instance:ctcorp.iviewUI.testCase.UIcase@201a4587]" name="TC01" class="ctcorp.iviewUI.testCase.UIcase"/>
+        <method signature="UIcase.TC02()[pri:1, instance:ctcorp.iviewUI.testCase.UIcase@201a4587]" name="TC02" class="ctcorp.iviewUI.testCase.UIcase"/>
+        <method signature="UIcase.TC03()[pri:2, instance:ctcorp.iviewUI.testCase.UIcase@201a4587]" name="TC03" class="ctcorp.iviewUI.testCase.UIcase"/>
+        <method signature="UIcase.TC04()[pri:3, instance:ctcorp.iviewUI.testCase.UIcase@201a4587]" name="TC04" class="ctcorp.iviewUI.testCase.UIcase"/>
+        <method signature="UIcase.TC05()[pri:4, instance:ctcorp.iviewUI.testCase.UIcase@201a4587]" name="TC05" class="ctcorp.iviewUI.testCase.UIcase"/>
+        <method signature="UIcase.TC06()[pri:5, instance:ctcorp.iviewUI.testCase.UIcase@201a4587]" name="TC06" class="ctcorp.iviewUI.testCase.UIcase"/>
+        <method signature="UIcase.TC07()[pri:6, instance:ctcorp.iviewUI.testCase.UIcase@201a4587]" name="TC07" class="ctcorp.iviewUI.testCase.UIcase"/>
+        <method signature="UIcase.TC08()[pri:7, instance:ctcorp.iviewUI.testCase.UIcase@201a4587]" name="TC08" class="ctcorp.iviewUI.testCase.UIcase"/>
+        <method signature="UIcase.TC09()[pri:8, instance:ctcorp.iviewUI.testCase.UIcase@201a4587]" name="TC09" class="ctcorp.iviewUI.testCase.UIcase"/>
+        <method signature="UIcase.TC10()[pri:9, instance:ctcorp.iviewUI.testCase.UIcase@201a4587]" name="TC10" class="ctcorp.iviewUI.testCase.UIcase"/>
+        <method signature="UIcase.TC11()[pri:10, instance:ctcorp.iviewUI.testCase.UIcase@201a4587]" name="TC11" class="ctcorp.iviewUI.testCase.UIcase"/>
+        <method signature="UIcase.TC12()[pri:11, instance:ctcorp.iviewUI.testCase.UIcase@201a4587]" name="TC12" class="ctcorp.iviewUI.testCase.UIcase"/>
+        <method signature="UIcase.TC13()[pri:12, instance:ctcorp.iviewUI.testCase.UIcase@201a4587]" name="TC13" class="ctcorp.iviewUI.testCase.UIcase"/>
+        <method signature="UIcase.TC14()[pri:13, instance:ctcorp.iviewUI.testCase.UIcase@201a4587]" name="TC14" class="ctcorp.iviewUI.testCase.UIcase"/>
+        <method signature="UIcase.TC15()[pri:14, instance:ctcorp.iviewUI.testCase.UIcase@201a4587]" name="TC15" class="ctcorp.iviewUI.testCase.UIcase"/>
+      </group> <!-- UI -->
+    </groups>
+    <test started-at="2022-08-15T02:55:54 WIB" name="Zalora" finished-at="2022-08-15T02:57:12 WIB" duration-ms="77232">
+      <class name="ctcorp.iviewUI.testCase.UIcase">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:ctcorp.iviewUI.testCase.UIcase@201a4587]" started-at="2022-08-15T02:55:54 WIB" name="setup" finished-at="2022-08-15T02:56:04 WIB" duration-ms="9918" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC01()[pri:0, instance:ctcorp.iviewUI.testCase.UIcase@201a4587]" started-at="2022-08-15T02:56:04 WIB" name="TC01" description="successful registration with all checkbox" finished-at="2022-08-15T02:56:13 WIB" duration-ms="8394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method signature="TC02()[pri:1, instance:ctcorp.iviewUI.testCase.UIcase@201a4587]" started-at="2022-08-15T02:56:13 WIB" name="TC02" description="Discount checkbox and stay login" finished-at="2022-08-15T02:56:19 WIB" duration-ms="5992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02 -->
+        <test-method signature="TC03()[pri:2, instance:ctcorp.iviewUI.testCase.UIcase@201a4587]" started-at="2022-08-15T02:56:19 WIB" name="TC03" description="successful registration, no checkbox" finished-at="2022-08-15T02:56:24 WIB" duration-ms="5577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03 -->
+        <test-method signature="TC04()[pri:3, instance:ctcorp.iviewUI.testCase.UIcase@201a4587]" started-at="2022-08-15T02:56:24 WIB" name="TC04" description="successful registration as male" finished-at="2022-08-15T02:56:30 WIB" duration-ms="5592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC04 -->
+        <test-method signature="TC05()[pri:4, instance:ctcorp.iviewUI.testCase.UIcase@201a4587]" started-at="2022-08-15T02:56:30 WIB" name="TC05" description="successful registration without first name" finished-at="2022-08-15T02:56:35 WIB" duration-ms="5583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC05 -->
+        <test-method signature="TC06()[pri:5, instance:ctcorp.iviewUI.testCase.UIcase@201a4587]" started-at="2022-08-15T02:56:35 WIB" name="TC06" description="Fail with no email" finished-at="2022-08-15T02:56:39 WIB" duration-ms="3431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC06 -->
+        <test-method signature="TC07()[pri:6, instance:ctcorp.iviewUI.testCase.UIcase@201a4587]" started-at="2022-08-15T02:56:39 WIB" name="TC07" description="Fail with invalid email" finished-at="2022-08-15T02:56:42 WIB" duration-ms="3232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC07 -->
+        <test-method signature="TC08()[pri:7, instance:ctcorp.iviewUI.testCase.UIcase@201a4587]" started-at="2022-08-15T02:56:42 WIB" name="TC08" description="Fail with no password" finished-at="2022-08-15T02:56:45 WIB" duration-ms="3253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC08 -->
+        <test-method signature="TC09()[pri:8, instance:ctcorp.iviewUI.testCase.UIcase@201a4587]" started-at="2022-08-15T02:56:45 WIB" name="TC09" description="Fail with password &lt; 6 chars" finished-at="2022-08-15T02:56:49 WIB" duration-ms="3274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC09 -->
+        <test-method signature="TC10()[pri:9, instance:ctcorp.iviewUI.testCase.UIcase@201a4587]" started-at="2022-08-15T02:56:49 WIB" name="TC10" description="Fail no gender selected" finished-at="2022-08-15T02:56:52 WIB" duration-ms="3683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC10 -->
+        <test-method signature="TC11()[pri:10, instance:ctcorp.iviewUI.testCase.UIcase@201a4587]" started-at="2022-08-15T02:56:52 WIB" name="TC11" description="Fail empty hari" finished-at="2022-08-15T02:56:56 WIB" duration-ms="3706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC11 -->
+        <test-method signature="TC12()[pri:11, instance:ctcorp.iviewUI.testCase.UIcase@201a4587]" started-at="2022-08-15T02:56:56 WIB" name="TC12" description="Fail empty bulan" finished-at="2022-08-15T02:56:59 WIB" duration-ms="3412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC12 -->
+        <test-method signature="TC13()[pri:12, instance:ctcorp.iviewUI.testCase.UIcase@201a4587]" started-at="2022-08-15T02:56:59 WIB" name="TC13" description="Fail empty tahun" finished-at="2022-08-15T02:57:03 WIB" duration-ms="3292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC13 -->
+        <test-method signature="TC14()[pri:13, instance:ctcorp.iviewUI.testCase.UIcase@201a4587]" started-at="2022-08-15T02:57:03 WIB" name="TC14" description="Fail incorrect date" finished-at="2022-08-15T02:57:06 WIB" duration-ms="3509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC14 -->
+        <test-method signature="TC15()[pri:14, instance:ctcorp.iviewUI.testCase.UIcase@201a4587]" started-at="2022-08-15T02:57:06 WIB" name="TC15" description="Fail existing email" finished-at="2022-08-15T02:57:11 WIB" duration-ms="4901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC15 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ctcorp.iviewUI.testCase.UIcase@201a4587]" started-at="2022-08-15T02:57:11 WIB" name="tearDown" finished-at="2022-08-15T02:57:12 WIB" duration-ms="391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ctcorp.iviewUI.testCase.UIcase -->
+    </test> <!-- Zalora -->
+  </suite> <!-- Zalora -->
+</testng-results>
